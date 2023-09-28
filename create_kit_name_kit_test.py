@@ -1,4 +1,4 @@
-import pytest
+# Ганзеев Сергей, 8а-ая когорта - Финальный проект. Инженер по тестированию плюс
 import sender_stand_request
 import data
 
